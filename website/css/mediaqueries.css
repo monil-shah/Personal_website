@@ -1,0 +1,108 @@
+@media screen and (max-width:1200px)
+{
+	.profile_photo {
+	float: left;
+	min-height: 150px;
+	background: #323232;
+	width: 1200px;
+}
+.profile_photo img {
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+}
+.profile_name {
+    background: none repeat scroll 0 0 #16A5D7;
+    float: left;
+    height:150px;
+    width: 1200px;
+	text-decoration:none;
+}
+}
+@media screen and (max-width:960px)
+{
+.profile_photo {
+	float: left;
+	min-height: 150px;
+	background: #323232;
+	width: 900px;
+}
+.profile_photo img {
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+}
+.profile_name {
+    background: none repeat scroll 0 0 #16A5D7;
+    float: left;
+    height:150px;
+    width: 900px;
+	text-decoration:none;
+}
+}
+
+
+
+@media screen and (max-width:600px)
+{
+	.profile_photo {
+	float: left;
+	min-height: 150px;
+	background: #323232;
+	width: 600px;
+}
+.profile_photo img {
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+}
+.profile_name {
+    background: none repeat scroll 0 0 #16A5D7;
+    float: left;
+    height:150px;
+    width: 600px;
+	text-decoration:none;
+}
+}
+
+@media screen and (max-width:320px)
+{
+	.profile_photo {
+	float: left;
+	min-height: 150px;
+	background: #323232;
+	width: 300px;
+}
+.profile_photo img {
+	vertical-align: top;
+	width: 100%;
+	height: auto;
+}
+.profile_name {
+    background: none repeat scroll 0 0 #16A5D7;
+    float: left;
+    height:150px;
+    width: 300px;
+	text-decoration:none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
